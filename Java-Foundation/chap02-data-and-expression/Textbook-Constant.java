@@ -1,0 +1,1 @@
+final int MAX_OCCUPANCY = 427;
